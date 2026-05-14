@@ -107,11 +107,8 @@
 
 <div align="center">
 
-![Gino's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ginorubio&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ginorubio&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ginorubio&layout=compact&theme=dark&hide_border=true)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ginorubio&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
